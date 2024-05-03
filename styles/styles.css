@@ -1,5 +1,5 @@
 nav{
-backgroud-color: steelblue;
+backgroud-color: rgb(15, 126, 218);
 padding: 10px;
 }
 
@@ -10,13 +10,13 @@ padding: 20px;
 }
 
 h1{
-color: steelblue;
+color: rgb(15, 126, 218);
 }
 
 img{
 width: 150px;
 height: auto;
-border: 1px solid steelblue;
+border: 1px solid rgb(15, 126, 218);
 padding: 2px;
 box-shadow: 0 0 30px grey
 }
