@@ -5,6 +5,7 @@
 }
 nav{
 background-color: rgb(111, 164, 207);
+display: inline;
 padding: 10px;
 }
 
