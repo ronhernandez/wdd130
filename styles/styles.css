@@ -4,7 +4,7 @@
   box-sizing: border-box;  
 }
 nav{
-background-color: rgb(111, 164, 207);
+background-color: rgb(151, 182, 207);
 display: inline;
 padding: 10px;
 }
@@ -20,7 +20,7 @@ color: rgb(15, 126, 218);
 }
 
 h3{
-    color: rgb(15, 126, 218);
+    color: rgb(17, 138, 236);
     }
 img{
 float: right;
@@ -46,7 +46,7 @@ aside h2{
     left: 70px; 
 }
 aside{
-    width: 20rem;
+    width: 18rem;
     margin: 1rem;
     border: 1px solid rgba(0, 0, 0, 0.2);
     padding: 1rem;
