@@ -39,7 +39,7 @@ nav{
     }
 
     nav a {
-        display: block;
+        display: inline;
         color: var(--nav--link-color);
         text-decoration: none;
         padding: 1rem;
