@@ -24,12 +24,6 @@ color: var(--primary-color)
 }
 
 
-
-header h2{
-    position: absolute;
-    top: 47px;
-    left: 70px; 
-}
 header{
     width: 18rem;
     margin: 1rem;
